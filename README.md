@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StefanMiranda
 - 👀 I’m interested in Technology and Programing
-- 🌱 I’m currently learning on Launch X LATAM
-- 💞️ I’m looking to collaborate on Microsoft 
+- 🌱 I’m currently learning on Undefined Academy and Udemy 
+- 💞️ I’m looking to collaborate on Microsoft | Azure | FB
 
 
 <!---
